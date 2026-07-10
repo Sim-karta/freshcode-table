@@ -10,7 +10,29 @@ html {
     height: 100vh;
 }
 
-th,
-td {
-    border: 1px solid black;
+.table {
+    border: 2px solid rgb(59 90 98);
+}
+
+.table th,
+.table td {
+    padding: 5px 10px;
+    border: 1px solid rgb(59 90 98);
+}
+
+.table__head {
+    color: #fff;
+}
+
+.table__title,
+.table__sections {
+    background-color: rgb(14 106 117);
+}
+
+.table__columns {
+    background-color: rgb(131 137 151);
+}
+
+.table__address {
+    background-color: rgb(170 170 170);
 }
