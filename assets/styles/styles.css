@@ -49,6 +49,11 @@ html {
     background-color: rgb(233 233 233);
 }
 
+.table__row:hover {
+    cursor: pointer;
+    background-color: rgb(200 200 200);
+}
+
 .table__row-data:not(:first-child) {
     text-align: center;
 }
