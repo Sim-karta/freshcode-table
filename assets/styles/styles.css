@@ -33,6 +33,14 @@ html {
     background-color: rgb(131 137 151);
 }
 
+.table-section--personal {
+    width: 28rem;
+}
+
+.table-section--academic {
+    width: 20rem;
+}
+
 .table__address {
     background-color: rgb(170 170 170);
 }
